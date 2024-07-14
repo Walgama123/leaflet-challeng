@@ -33,7 +33,7 @@ In this challenge, you have been tasked with developing a way to visualize USGS 
   - Create createEQMarkers function that create the marker group.
   - Import data from the website and calling the functions to deploy the map.  
 - [Leaflet-Part-2.](Leaflet-Part-2/static/js/logic.js)
-  - [Create the satellite map tile layer that will be the background of our map.]('http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}) 
+  - [Create the satellite map tile layer that will be the background of our map.](http://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}) 
   - [Create topo layer.](https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png)
   - [Creat outdoor layer.](https://www.openstreetmap.org/copyright)
   - Create a baseMaps object to hold the three views layers.
