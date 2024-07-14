@@ -1,5 +1,5 @@
 
-<h1 align="center">Plotting Earthquake Data Dashboard</h1>
+<h1 align="center">Plotting Earthquake Data </h1>
 <h3 align="center">Leaflet & JavaScript</h1>
 <div align="center">
 	<img src="images/logos.png">
