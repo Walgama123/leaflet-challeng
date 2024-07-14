@@ -1,8 +1,10 @@
 
 <h1 align="center">Plotting Earthquake Data Dashboard</h1>
-<h3 align="center">Leaflet & JacaScript</h1>
+<h3 align="center">Leaflet & JavaScript</h1>
+<div align="center">
+	<img src="images/logos.png">
+</div>
 
-![leaflet](images/logos.png)
 
 ## Background.
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change.
@@ -43,7 +45,7 @@ In this challenge, you have been tasked with developing a way to visualize USGS 
   - Import data from the website and calling the functions to deploy the map.  
   
 
-## functions.
+## Functions.
 - markerSize  : This function accept the magnitude of the earthquake and return the size of the marker accordingly.
 - markerColor : This function accept the depth of the earthquake and return the marker color.
 - creatEqMap  : This function create the base map accepting one argument (layer group).
